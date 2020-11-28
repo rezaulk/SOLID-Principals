@@ -13,7 +13,7 @@
  
 
 <p>
-<img align="left" alt="   | LinkedIn" width="100%" src="./structure.png" />
+<img align="left" alt="" width="100%" src="./structure.PNG" />
 </p>
 
  &nbsp;
@@ -26,7 +26,7 @@
  
  ### Every software module should have only one reason to change ###
 </p>
-<img align="left" alt="   | LinkedIn" width="100%" src="./SRP.png" />
+<img align="left" alt="" width="100%" src="./SRP.PNG" />
 
 
 &nbsp;
@@ -41,7 +41,7 @@ The Open-Closed Principle states that “software entities such as modules, clas
 </p>
 
 <p> For examples, Bouns is common for all module. Already have SeniorEmployee(),MidEmployee(). If we need module for Junior, we can easily add JuniorEmployee() with inherit Bonus() module with <span style="color: blue">new requirements. </span></p>
-<img align="left" alt="   | LinkedIn" width="100%" src="./OCP.png" />
+<img align="left" alt="" width="100%" src="./OCP.PNG" />
 
 &nbsp;
 
@@ -51,8 +51,8 @@ The Open-Closed Principle states that “software entities such as modules, clas
 <p> This principle is simple but very important to understand. Child class should not break parent class’s type definition and behavior. </p>
 <table border="0">
  <tr>
-    <td><img align="left" alt="   | LinkedIn" width="100%" src="./LSP_1.png" /></td>
-    <td><img align="right" alt="   | LinkedIn" width="100%" src="./LSP_2.png" /></td>
+    <td><img align="left" alt="" width="100%" src="./LSP_1.PNG" /></td>
+    <td><img align="right" alt="" width="100%" src="./LSP_2.PNG" /></td>
  </tr>
 </table>
 
@@ -64,8 +64,8 @@ The Open-Closed Principle states that “software entities such as modules, clas
 </p>
 <table border="0">
  <tr>
-    <td><img align="left" alt="   | LinkedIn" width="100%" src="./ISP_1.png" /></td>
-    <td><img align="right" alt="   | LinkedIn" width="100%" src="./ISP_2.png" /></td>
+    <td><img align="left" alt="" width="100%" src="./ISP_1.PNG" /></td>
+    <td><img align="right" alt="" width="100%" src="./ISP_2.PNG" /></td>
  </tr>
 </table>
 
