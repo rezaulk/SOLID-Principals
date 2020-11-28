@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SOLID.Enitites\SOLID.Enitites.csproj" />
+    <ProjectReference Include="..\SOLID.Infrustructure\SOLID.Infrustructure.csproj" />
+    <ProjectReference Include="..\SOLID.Manager\SOLID.Manager.csproj" />
+  </ItemGroup>
+
+</Project>
