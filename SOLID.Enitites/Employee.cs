@@ -10,5 +10,7 @@ namespace SOLID.Enitites
         public int Email { get; set; }
         public int Address { get; set; }
 
+        public string Designation { get; set; }
+
     }
 }

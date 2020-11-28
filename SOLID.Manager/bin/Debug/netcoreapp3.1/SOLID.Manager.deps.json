@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SOLID.Manager/1.0.0": {
+        "dependencies": {
+          "SOLID.Enitites": "1.0.0"
+        },
+        "runtime": {
+          "SOLID.Manager.dll": {}
+        }
+      },
+      "SOLID.Enitites/1.0.0": {
+        "runtime": {
+          "SOLID.Enitites.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SOLID.Manager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SOLID.Enitites/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

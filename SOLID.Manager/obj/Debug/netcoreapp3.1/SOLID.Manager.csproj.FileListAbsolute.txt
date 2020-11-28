@@ -1,0 +1,12 @@
+H:\GitHub-2020\SOLID-Principles\SOLID.Manager\bin\Debug\netcoreapp3.1\SOLID.Manager.deps.json
+H:\GitHub-2020\SOLID-Principles\SOLID.Manager\bin\Debug\netcoreapp3.1\SOLID.Manager.dll
+H:\GitHub-2020\SOLID-Principles\SOLID.Manager\bin\Debug\netcoreapp3.1\SOLID.Manager.pdb
+H:\GitHub-2020\SOLID-Principles\SOLID.Manager\bin\Debug\netcoreapp3.1\SOLID.Enitites.dll
+H:\GitHub-2020\SOLID-Principles\SOLID.Manager\bin\Debug\netcoreapp3.1\SOLID.Enitites.pdb
+H:\GitHub-2020\SOLID-Principles\SOLID.Manager\obj\Debug\netcoreapp3.1\SOLID.Manager.csprojAssemblyReference.cache
+H:\GitHub-2020\SOLID-Principles\SOLID.Manager\obj\Debug\netcoreapp3.1\SOLID.Manager.AssemblyInfoInputs.cache
+H:\GitHub-2020\SOLID-Principles\SOLID.Manager\obj\Debug\netcoreapp3.1\SOLID.Manager.AssemblyInfo.cs
+H:\GitHub-2020\SOLID-Principles\SOLID.Manager\obj\Debug\netcoreapp3.1\SOLID.Manager.csproj.CoreCompileInputs.cache
+H:\GitHub-2020\SOLID-Principles\SOLID.Manager\obj\Debug\netcoreapp3.1\SOLID.Manager.csproj.CopyComplete
+H:\GitHub-2020\SOLID-Principles\SOLID.Manager\obj\Debug\netcoreapp3.1\SOLID.Manager.dll
+H:\GitHub-2020\SOLID-Principles\SOLID.Manager\obj\Debug\netcoreapp3.1\SOLID.Manager.pdb

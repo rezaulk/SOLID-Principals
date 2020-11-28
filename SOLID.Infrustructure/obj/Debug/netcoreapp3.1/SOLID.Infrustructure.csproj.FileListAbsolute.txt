@@ -1,0 +1,12 @@
+H:\GitHub-2020\SOLID-Principles\SOLID.Infrustructure\bin\Debug\netcoreapp3.1\SOLID.Infrustructure.deps.json
+H:\GitHub-2020\SOLID-Principles\SOLID.Infrustructure\bin\Debug\netcoreapp3.1\SOLID.Infrustructure.dll
+H:\GitHub-2020\SOLID-Principles\SOLID.Infrustructure\bin\Debug\netcoreapp3.1\SOLID.Infrustructure.pdb
+H:\GitHub-2020\SOLID-Principles\SOLID.Infrustructure\bin\Debug\netcoreapp3.1\SOLID.Enitites.dll
+H:\GitHub-2020\SOLID-Principles\SOLID.Infrustructure\bin\Debug\netcoreapp3.1\SOLID.Enitites.pdb
+H:\GitHub-2020\SOLID-Principles\SOLID.Infrustructure\obj\Debug\netcoreapp3.1\SOLID.Infrustructure.csprojAssemblyReference.cache
+H:\GitHub-2020\SOLID-Principles\SOLID.Infrustructure\obj\Debug\netcoreapp3.1\SOLID.Infrustructure.AssemblyInfoInputs.cache
+H:\GitHub-2020\SOLID-Principles\SOLID.Infrustructure\obj\Debug\netcoreapp3.1\SOLID.Infrustructure.AssemblyInfo.cs
+H:\GitHub-2020\SOLID-Principles\SOLID.Infrustructure\obj\Debug\netcoreapp3.1\SOLID.Infrustructure.csproj.CoreCompileInputs.cache
+H:\GitHub-2020\SOLID-Principles\SOLID.Infrustructure\obj\Debug\netcoreapp3.1\SOLID.Infrustructure.csproj.CopyComplete
+H:\GitHub-2020\SOLID-Principles\SOLID.Infrustructure\obj\Debug\netcoreapp3.1\SOLID.Infrustructure.dll
+H:\GitHub-2020\SOLID-Principles\SOLID.Infrustructure\obj\Debug\netcoreapp3.1\SOLID.Infrustructure.pdb
