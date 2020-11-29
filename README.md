@@ -13,7 +13,7 @@
  
 
 <p>
-<img align="left" alt="" width="100%" src="./structure.PNG" />
+<img align="left" alt="" width="100%" src="./structure.png" />
 </p>
 
  &nbsp;
