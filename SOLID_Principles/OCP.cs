@@ -26,6 +26,7 @@ namespace SOLID_Principles
             public override double GetInvoiceDiscount(double amount)
             {
                 return base.GetInvoiceDiscount(amount) - 40;
+
             }
         }
         public class RecurringInvoice : Invoice

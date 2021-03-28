@@ -21,10 +21,10 @@ namespace SOLID_Principles
             //double RInvoiceAmount = RInvoice.GetInvoiceDiscount(10000);
 
 
-            Fruit fruit = new Orange();
-            Console.WriteLine(fruit.GetColor());
-            fruit = new Apple();
-            Console.WriteLine(fruit.GetColor());
+            //Fruit fruit = new Orange();
+            //Console.WriteLine(fruit.GetColor());
+            //fruit = new Apple();
+            //Console.WriteLine(fruit.GetColor());
 
             CreateHostBuilder(args).Build().Run();
         }

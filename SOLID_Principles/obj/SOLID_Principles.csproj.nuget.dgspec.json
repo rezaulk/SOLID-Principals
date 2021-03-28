@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "H:\\GitHub-2020\\SOLID-Principles\\SOLID_Principles\\SOLID_Principles.csproj": {}
+    "H:\\GitHub-2020\\SOLID-Principles\\SOLID_PRINCIPLES\\SOLID_Principles.csproj": {}
   },
   "projects": {
     "H:\\GitHub-2020\\SOLID-Principles\\SOLID.Enitites\\SOLID.Enitites.csproj": {
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -124,7 +124,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -185,7 +185,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -252,18 +252,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "H:\\GitHub-2020\\SOLID-Principles\\SOLID_Principles\\SOLID_Principles.csproj": {
+    "H:\\GitHub-2020\\SOLID-Principles\\SOLID_PRINCIPLES\\SOLID_Principles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\GitHub-2020\\SOLID-Principles\\SOLID_Principles\\SOLID_Principles.csproj",
+        "projectUniqueName": "H:\\GitHub-2020\\SOLID-Principles\\SOLID_PRINCIPLES\\SOLID_Principles.csproj",
         "projectName": "SOLID_Principles",
-        "projectPath": "H:\\GitHub-2020\\SOLID-Principles\\SOLID_Principles\\SOLID_Principles.csproj",
+        "projectPath": "H:\\GitHub-2020\\SOLID-Principles\\SOLID_PRINCIPLES\\SOLID_Principles.csproj",
         "packagesPath": "C:\\Users\\rezau\\.nuget\\packages\\",
-        "outputPath": "H:\\GitHub-2020\\SOLID-Principles\\SOLID_Principles\\obj\\",
+        "outputPath": "H:\\GitHub-2020\\SOLID-Principles\\SOLID_PRINCIPLES\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -301,6 +301,22 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -319,7 +335,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

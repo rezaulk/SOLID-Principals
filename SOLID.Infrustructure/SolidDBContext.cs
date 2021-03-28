@@ -13,5 +13,32 @@ namespace SOLID.Infrustructure
         {
         }
         public DbSet<Employee> Employees { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Employee>().HasData(
+                new Employee
+                {
+                    Id = 1,
+                    Name="AB",
+                    Designation = "Senior",
+                    Address = "Dhaka",
+                },
+                new Employee
+                {
+                    Id = 2,
+                    Name= "ABC",
+                    Designation = "Senior",
+                    Address = "Dhaka",
+                },
+                new Employee
+                {
+                    Id = 3,
+                    Name= "ABCD",
+                    Designation = "Grocery",
+                    Address = "Grocery Items",
+                }
+            );
+        }
     }
 }
